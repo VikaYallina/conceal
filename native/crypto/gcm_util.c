@@ -8,6 +8,7 @@
  *
  */
 #include <gcm_util.h>
+#include <string.h>
 #include <util.h>
 
 #pragma GCC diagnostic ignored "-Wpointer-to-int-cast"
